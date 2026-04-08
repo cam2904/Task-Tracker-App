@@ -14,6 +14,16 @@ A simple todo app to keep track of everything you need to get done 📝 Built wi
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Screen](screenshots/home.png)
+
+### ➕ Tasks Created
+![Tasks Examples](screenshots/tasks.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
