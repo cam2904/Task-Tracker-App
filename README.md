@@ -17,10 +17,10 @@ A simple todo app to keep track of everything you need to get done 📝 Built wi
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" width="45%" />
 
 ### ➕ Tasks Created
-![Tasks Examples](screenshots/tasks.png)
+<img src="screenshots/tasks.png" width="45%" />
 
 ---
 
@@ -112,8 +112,3 @@ REACT_APP_BACKEND_URL=http://localhost:8001
 | Backend API | http://localhost:8001/api/todos |
 
 > 💡 **Tip:** Run the backend and frontend in separate terminal tabs so both stay active at the same time!
-
-<p float="left">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/create-task.png" width="45%" />
-</p>
