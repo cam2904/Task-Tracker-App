@@ -112,3 +112,8 @@ REACT_APP_BACKEND_URL=http://localhost:8001
 | Backend API | http://localhost:8001/api/todos |
 
 > 💡 **Tip:** Run the backend and frontend in separate terminal tabs so both stay active at the same time!
+
+<p float="left">
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/create-task.png" width="45%" />
+</p>
