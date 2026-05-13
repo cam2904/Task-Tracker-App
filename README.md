@@ -1,30 +1,30 @@
-# ✅ Task Tracker App
+# Task Tracker App
 
 A simple todo app to keep track of everything you need to get done 📝 Built with React, FastAPI, and MongoDB.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📋 Create, read, update, and delete tasks
-- 🎨 Clean and responsive UI built with shadcn components
-- ⚡ Fast and lightweight REST API backend
-- 🗄️ Persistent data storage with MongoDB
-- 🔄 Real-time updates with React state management
+- Create, read, update, and delete tasks
+- Clean and responsive UI built with shadcn components
+- Fast and lightweight REST API backend
+- Persistent data storage with MongoDB
+- Real-time updates with React state management
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Home Page
+### Home Page
 <img src="screenshots/home.png" width="45%" />
 
-### ➕ Tasks Created
+### Tasks Created
 <img src="screenshots/tasks.png" width="45%" />
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -35,7 +35,7 @@ A simple todo app to keep track of everything you need to get done 📝 Built wi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -104,11 +104,11 @@ REACT_APP_BACKEND_URL=http://localhost:8001
 
 ---
 
-### 4. Open the App 🎉
+### 4. Open the App 
 
 | Service | URL |
 |---|---|
 | Frontend | http://localhost:3000 |
 | Backend API | http://localhost:8001/api/todos |
 
-> 💡 **Tip:** Run the backend and frontend in separate terminal tabs so both stay active at the same time!
+> **Tip:** Run the backend and frontend in separate terminal tabs so both stay active at the same time!
