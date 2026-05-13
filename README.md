@@ -1,6 +1,7 @@
 # Task Tracker App
 
-A simple todo app to keep track of everything you need to get done 📝 Built with React, FastAPI, and MongoDB.
+A simple todo app to keep track of everything you need to get done.
+Built with React, FastAPI, and MongoDB.
 
 ---
 
